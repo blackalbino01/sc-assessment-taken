@@ -15,3 +15,5 @@ Ensure you have installed:
 
 Clone the repo locally and install the NPM dependencies:
 
+
+Loom Recording: https://www.loom.com/share/ba056f9619944bd3ad455a56922206e7
